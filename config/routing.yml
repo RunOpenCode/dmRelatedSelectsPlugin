@@ -1,0 +1,3 @@
+related_selects_plugin:  
+  url:        /dm-utils/related-selects/*
+  params:     { module: dmRelatedSelects, action: index }  

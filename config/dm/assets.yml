@@ -1,0 +1,4 @@
+js:
+  dmRelatedSelectsPlugin:
+    relatedSelects: jquery.relatedselects
+    launch: launch
